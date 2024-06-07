@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Electronics",
+        "owner": "kristaps",
+        "accessCode": 2432,
+        "productCount": 10
+    },
+    {
+        "name": "new unit",
+        "owner": "redrift",
+        "accessCode": 9195,
+        "productCount": 10
+    }
+]

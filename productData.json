@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Samsung",
+        "quantity": 10,
+        "createdAt": "2024-06-04 12:33:31",
+        "storageUnitName": "Electronics"
+    },
+    {
+        "id": 2,
+        "name": "tv",
+        "quantity": 1,
+        "createdAt": "2024-06-04 12:37:19",
+        "storageUnitName": "new unit"
+    }
+]
